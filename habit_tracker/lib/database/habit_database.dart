@@ -14,5 +14,11 @@ class HabitDatabase extends ChangeNotifier {
       [HabitSchema, AppSettingsSchema],
       directory: dir.path,
     );
+
+    //database
+
+    //database
+
+    //database
   }
 }
